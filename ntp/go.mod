@@ -1,4 +1,4 @@
-module example.com/ntp-time
+module ntp-time
 
 go 1.26
 
